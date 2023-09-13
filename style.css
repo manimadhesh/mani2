@@ -1,0 +1,18 @@
+h1 {
+  /* color: red; */
+  /* text-align: center; */
+}
+.main-header {
+  background-color: rgb(84, 86, 87);
+}
+.container {
+  width: 800px;
+  /* margin-right: auto;
+  margin-left: auto; */
+  margin: 0 auto;
+}
+.author {
+  /* float: left; */
+}
+nav {
+}
